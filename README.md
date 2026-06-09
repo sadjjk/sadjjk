@@ -14,6 +14,10 @@
 
 CLI 层 [agent-undo (Fork)](https://github.com/sadjjk/agent-undo) → Hook 层 [agent-undo-hook](https://github.com/sadjjk/public-agent-skills-plugins/tree/main/plugins/agent-undo) → Skill 层 [au-viewer](https://github.com/sadjjk/public-agent-skills-plugins/tree/main/skills/au-viewer)
 
-从命令行归因到自动备份，再到浏览器可视化回滚，三层联动全覆盖。
+从命令行CLI到AgentHook自动归因 再到Skill可视化查看和回滚 三层联动
+
+**public-agent-skills-plugins** — AI Agent 的技能书和工具箱
+
+自研 Skills & Plugins + 开源收录。[→ GitHub](https://github.com/sadjjk/public-agent-skills-plugins)
 
 ![agent-undo-banner](https://raw.githubusercontent.com/sadjjk/public-agent-skills-plugins/main/plugins/agent-undo/imgs/agent-undo-banner.jpg)

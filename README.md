@@ -21,3 +21,11 @@ CLI 层 [agent-undo (Fork)](https://github.com/sadjjk/agent-undo) → Hook 层 [
 **[public-agent-skills-plugins](https://github.com/sadjjk/public-agent-skills-plugins)** — AI Agent 的技能书和工具箱
 
 自研 Skills & Plugins + 开源收录。
+
+---
+
+**[llm-batch-msg-label](https://github.com/sadjjk/llm-batch-msg-label)** — 用 LLM 对客户对话批量打标签
+
+Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
+
+![llm-batch-msg-label](https://raw.githubusercontent.com/sadjjk/llm-batch-msg-label/main/imgs/cover.jpg)

@@ -2,7 +2,7 @@
 
 <!-- STATS-START -->
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-89-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk)
-[![Followers](https://img.shields.io/badge/Followers-11-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=followers)
+[![Followers](https://img.shields.io/badge/Followers-12-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=repositories)
 <!-- STATS-END -->
 

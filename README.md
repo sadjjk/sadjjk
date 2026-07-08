@@ -6,7 +6,7 @@
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=repositories)
 <!-- STATS-END -->
 
-🏠 [www.sadjjk.cn](https://www.sadjjk.cn)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_www.sadjjk.cn-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://www.sadjjk.cn)
 
 ---
 

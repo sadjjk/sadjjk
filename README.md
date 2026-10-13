@@ -8,6 +8,12 @@ AI 投降派，但不屈服——把重复交给它，把判断留给自己。 �
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=repositories)
 <!-- STATS-END -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### Go Go Go ！！！
@@ -43,3 +49,23 @@ CLI 层 [agent-undo (Fork)](https://github.com/sadjjk/agent-undo) → Hook 层 [
 Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 <img src="https://raw.githubusercontent.com/sadjjk/llm-batch-msg-label/main/imgs/cover.jpg" width="600" alt="llm-batch-msg-label cover">
+
+---
+
+### cat about.txt
+
+```text
+sadjjk@github:~$ cat about.txt
+name:      金鱼
+class:     AI 投降派（但不屈服）
+building:  obsidian-daily-jots · dsh-context-mode-adapter · agent-undo
+memory:    金鱼级 → 所以造工具补：笔记收生活，回滚保平安，上下文省着花
+contact:   www.sadjjk.cn
+sadjjk@github:~$ █
+```
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,css,html,git,md&perline=12" alt="tech stack" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadjjk&layout=compact&hide_border=true&langs_count=8)](https://github.com/sadjjk)

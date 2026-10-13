@@ -1,17 +1,11 @@
 # 金鱼
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D700&center=true&vCenter=true&width=650&lines=AI+投降派,+但不屈服;把重复交给它,+把判断留给自己" alt="AI 投降派，但不屈服">
-</p>
-
-<p align="center">博客：<a href="https://www.sadjjk.cn">www.sadjjk.cn</a></p>
+AI 投降派，但不屈服——把重复交给它，把判断留给自己。 · 博客：[www.sadjjk.cn](https://www.sadjjk.cn)
 
 <!-- STATS-START -->
-<p align="center">
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-89-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk)
 [![Followers](https://img.shields.io/badge/Followers-12-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=repositories)
-</p>
 <!-- STATS-END -->
 
 <p align="center">
@@ -60,21 +54,6 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 ---
 
-### 我的城市
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sadjjk/sadjjk/output-3d/profile-night-rainbow.svg" alt="3D contribution city" width="100%">
-</p>
-
----
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,js,css,html,git,md&perline=12" alt="tech stack" />
 </a>
-
-| 统计 | 语言 |
-|------|------|
-| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/0-profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/1-repos-per-language.svg) |
-| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/2-most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/4-productive-time.svg) |
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadjjk&bg_color=0d1117&color=ffffff&line=F7D700&point=F7D700&area=true&hide_border=true)

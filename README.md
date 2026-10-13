@@ -52,18 +52,6 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 ---
 
-### cat about.txt
-
-```text
-sadjjk@github:~$ cat about.txt
-name:      金鱼
-class:     AI 投降派（但不屈服）
-building:  obsidian-daily-jots · dsh-context-mode-adapter · agent-undo
-memory:    金鱼级 → 所以造工具补：笔记收生活，回滚保平安，上下文省着花
-contact:   www.sadjjk.cn
-sadjjk@github:~$ █
-```
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,js,css,html,git,md&perline=12" alt="tech stack" />
 </a>

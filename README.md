@@ -63,7 +63,7 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 ### 我的城市
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadjjk/sadjjk/output-3d/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%">
+  <img src="https://raw.githubusercontent.com/sadjjk/sadjjk/output-3d/profile-night-rainbow.svg" alt="3D contribution city" width="100%">
 </p>
 
 ---
@@ -74,7 +74,7 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 | 统计 | 语言 |
 |------|------|
-| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/repos-per-language.svg) |
-| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/productive-time.svg) |
+| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/0/profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/0/repos-per-language.svg) |
+| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/0/most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/0/productive-time.svg) |
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadjjk&bg_color=0d1117&color=ffffff&line=F7D700&point=F7D700&area=true&hide_border=true)

@@ -19,6 +19,6 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output-summary
-          build_dir: profile-summary-cards-output
+          build_dir: profile-summary-card-output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

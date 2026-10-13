@@ -17,9 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output-summary
-          build_dir: profile-summary-card-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# 该 action 自行将产物 commit 到 main(profile-summary-card-output/),无需额外推送步骤

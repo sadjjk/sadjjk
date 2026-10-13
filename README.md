@@ -74,7 +74,7 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 | 统计 | 语言 |
 |------|------|
-| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/2077/0-profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/2077/1-repos-per-language.svg) |
-| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/2077/2-most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/2077/4-productive-time.svg) |
+| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/0-profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/1-repos-per-language.svg) |
+| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/2-most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/main/profile-summary-card-output/2077/4-productive-time.svg) |
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadjjk&bg_color=0d1117&color=ffffff&line=F7D700&point=F7D700&area=true&hide_border=true)

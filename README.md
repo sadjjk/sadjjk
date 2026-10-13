@@ -1,18 +1,26 @@
 # 金鱼
 
-AI 投降派，但不屈服——把重复交给它，把判断留给自己。 · 博客：[www.sadjjk.cn](https://www.sadjjk.cn)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F7D700&center=true&vCenter=true&width=650&lines=AI+投降派,+但不屈服;把重复交给它,+把判断留给自己" alt="AI 投降派，但不屈服">
+</p>
+
+<p align="center">博客：<a href="https://www.sadjjk.cn">www.sadjjk.cn</a></p>
 
 <!-- STATS-START -->
+<p align="center">
 [![Total Stars](https://img.shields.io/badge/Total%20Stars-89-FFD93D?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk)
 [![Followers](https://img.shields.io/badge/Followers-12-4C8BF5?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=followers)
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-35-2EA44F?style=flat&logo=github&logoColor=white)](https://github.com/sadjjk?tab=repositories)
+</p>
 <!-- STATS-END -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/sadjjk/sadjjk/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -52,8 +60,21 @@ Markdown 定义标签 → 一条命令端到端 → Evidence 举证自动还原
 
 ---
 
+### 我的城市
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sadjjk/sadjjk/output-3d/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%">
+</p>
+
+---
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,js,css,html,git,md&perline=12" alt="tech stack" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadjjk&layout=compact&hide_border=true&langs_count=8)](https://github.com/sadjjk)
+| 统计 | 语言 |
+|------|------|
+| ![profile details](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/profile-details.svg) | ![repos per language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/repos-per-language.svg) |
+| ![most commit language](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/most-commit-language.svg) | ![productive time](https://raw.githubusercontent.com/sadjjk/sadjjk/output-summary/profile-summary-cards-output/0/productive-time.svg) |
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadjjk&bg_color=0d1117&color=ffffff&line=F7D700&point=F7D700&area=true&hide_border=true)
